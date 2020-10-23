@@ -235,6 +235,7 @@ button:active {
     outline: none;
     background-color: #fff;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 /* CONTACT */
@@ -263,6 +264,7 @@ button:active {
     border: none;
     font-size: 14px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* FOOTER */
